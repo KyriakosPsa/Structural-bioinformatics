@@ -1,4 +1,4 @@
-Structural-bioinformatics project description
+# Structural-bioinformatics project description
 
 1. The project includes the following components:
 - Implementation of the dynamic programming crude energy minimization algorithm for RNA folding, with the following graphical representations:
