@@ -8,4 +8,4 @@
 3. Calculation of the Caely manger matrix.
 
 # Results
-![images/optimal_folds.png]
+![optimal fold](images/optimal_folds.png)
