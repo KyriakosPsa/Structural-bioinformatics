@@ -6,3 +6,6 @@
 - Backtrack matrix representation for optimal path identification
 2. Analysis of the difference between c-RMSD and d-RMSD as protein similarity measures for 10 conformations.
 3. Calculation of the Caely manger matrix.
+
+# Results
+![images/optimal_folds.png]
